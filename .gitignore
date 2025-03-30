@@ -1,0 +1,14 @@
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore other IDE-specific files (if applicable)
+.idea/
+.vscode/
